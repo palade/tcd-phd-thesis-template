@@ -1,0 +1,30 @@
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.blg
+*.bbl
+*.bib~
+*.pdf~
+*.tex.bakls
+*.tex.bak
+*.nlo
+*.mtc*
+*.brf
+*.maf
+*.synctex.gz
+*.gz
+*.~vsdx
+*.idx
+*.synctex.gz\(busy\)
+~$*.xls*
+~$*.doc*
+~$*.pptx
+
+# Misc
+*.exe.stackdump
+*.tmp
